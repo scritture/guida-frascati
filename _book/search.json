@@ -21,17 +21,17 @@
     "text": "In summary, this book has no content whatsoever."
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "Riferimenti",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
-  },
-  {
     "objectID": "capitolo.html",
     "href": "capitolo.html",
     "title": "3  le bellezze di Frascati",
     "section": "",
     "text": "Per aggiungere un capitolo creare un file come questo e poi aggiungere il nome del file dentro il file _quarto.yml"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Riferimenti",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   }
 ]
