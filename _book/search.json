@@ -4,27 +4,34 @@
     "href": "index.html",
     "title": "Guida di Frascati",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+    "text": "Prefazione\nQuesto è un libro fatto con Quarto .\nPer saperne di più visita https://quarto.org/docs/books."
   },
   {
     "objectID": "intro.html",
     "href": "intro.html",
-    "title": "1  Introduction",
+    "title": "1  Introduzione",
     "section": "",
     "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\nBy Boaworm - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=10649477\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "2  Summary",
+    "title": "2  Sommario",
     "section": "",
     "text": "In summary, this book has no content whatsoever."
   },
   {
     "objectID": "references.html",
     "href": "references.html",
-    "title": "References",
+    "title": "Riferimenti",
     "section": "",
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "capitolo.html",
+    "href": "capitolo.html",
+    "title": "3  le bellezze di Frascati",
+    "section": "",
+    "text": "Per aggiungere un capitolo creare un file come questo e poi aggiungere il nome del file dentro il file _quarto.yml"
   }
 ]
