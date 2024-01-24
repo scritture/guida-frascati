@@ -5,6 +5,11 @@ book:
   title: "Guida di Frascati"
   author: "Claudio Comandini"
   date: "2024-01-24"
+  page-navigation: true
+  downloads: [pdf, epub]
+  search: true
+  repo-url: https://github.dev/scritture/guida-frascati/
+  repo-actions: [edit]
   chapters:
     - index.qmd
     - intro.qmd
@@ -19,6 +24,14 @@ format:
     toc: true
     number-sections: true
     colorlinks: true
+    documentclass: scrreprt
+    include-in-header: 
+      text: |
+        \usepackage{makeidx}
+        \makeindex
+    include-after-body: 
+      text: |
+        \printindex
   html:
     theme: cosmo
   epub:
