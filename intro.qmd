@@ -2,10 +2,44 @@
 
 This is a book created from markdown and executable code.
 
-See @knuth84 for additional discussion of literate programming.
+See @knuth84 for additional discussion of literateprogramming.
 
-<figure>
-    <img src="images/frascati.jpg"
-         alt="By Boaworm - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=10649477"></img>
-    <figcaption>By Boaworm - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=10649477</figcaption>
-</figure>
+Ma guarda anche @Comandini2024
+
+![una stampa antica di Frascati](images/frascati.jpg "immagine: Mappa di Frascati"){fig-alt="Una mappa di Frascati"}
+
+
+::: {#fig-cern}
+
+{{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
+
+The video "CERN: The Journey of Discovery"
+
+:::
+
+In @fig-cern...
+
+## Math Formula
+
+@eq-frac shows a divider.
+
+$$\frac{1}{2}$$ {#eq-frac}
+
+
+## Table
+
+
+The following is @tbl-one. The label name shoud start with `tbl-`
+
+|1|2|
+|---|---|
+|2|3|
+: An example table {#tbl-one}
+
+
+## Homework section is included
+Questo è un esempo  di una url  esterna al libro.
+
+- [Pedani](https://www.pedani.it)
+
+

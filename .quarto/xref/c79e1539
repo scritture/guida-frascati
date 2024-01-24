@@ -1,1 +1,1 @@
-{"options":{"chapters":true},"entries":[],"headings":[]}
+{"headings":["math-formula","table","homework-section-is-included"],"options":{"chapters":true},"entries":[{"caption":"The video “CERN: The Journey of Discovery”","key":"fig-cern","order":{"number":1,"section":[1,0,0,0,0,0,0]}},{"caption":"","key":"eq-frac","order":{"number":1,"section":[1,1,0,0,0,0,0]}},{"caption":"An example table","key":"tbl-one","order":{"number":1,"section":[1,2,0,0,0,0,0]}}]}

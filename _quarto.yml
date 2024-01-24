@@ -25,6 +25,7 @@ format:
     number-sections: true
     colorlinks: true
     documentclass: scrreprt
+    fontfamily: libertinus
     include-in-header: 
       text: |
         \usepackage{makeidx}
