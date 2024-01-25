@@ -65,9 +65,9 @@
   {
     "objectID": "capitolo.html",
     "href": "capitolo.html",
-    "title": "2  le bellezze di Frascati",
+    "title": "2  Capitoli aggiuntivi su files diversi",
     "section": "",
-    "text": "Per aggiungere un capitolo creare un file come questo e poi aggiungere il nome del file dentro il file _quarto.yml"
+    "text": "Pasta iniziare un titolo con un solo # per creare un nuovo capitolo\nMa a volte c’è bisogno di aggiungere del materiale da un altro file. Basta creare un file come questo e poi aggiungere il nome del file dentro il file _quarto.yml"
   },
   {
     "objectID": "summary.html",
