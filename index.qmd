@@ -4,4 +4,3 @@ Questo è un libro fatto con Quarto .
 
 Per saperne di più visita <https://quarto.org/docs/books>.
 
-Questo è un esempio di indice \index{esempio} e verrà inserito solo nel PDF e non sul epub o nell html.

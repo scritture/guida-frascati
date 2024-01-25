@@ -1,20 +1,23 @@
-# Introduzione
+# Frascati
 
 This is a book created from markdown and executable code.
+
+## Citazioni
 
 See @knuth84 for additional discussion of literateprogramming.
 
 Ma guarda anche @Comandini2024
 
+## Immagini
+
 ![una stampa antica di Frascati](images/frascati.jpg "immagine: Mappa di Frascati"){fig-alt="Una mappa di Frascati"}
 
+## Aggiungere video
 
 ::: {#fig-cern}
-
 {{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
 
 The video "CERN: The Journey of Discovery"
-
 :::
 
 In @fig-cern...
@@ -25,21 +28,69 @@ In @fig-cern...
 
 $$\frac{1}{2}$$ {#eq-frac}
 
-
 ## Table
-
 
 The following is @tbl-one. The label name shoud start with `tbl-`
 
-|1|2|
-|---|---|
-|2|3|
+| 1   | 2   | 3              |
+|-----|-----|----------------|
+| 2   | 3   | Testo di prova |
+| 1   | 3   | albicocche     |
+
 : An example table {#tbl-one}
 
+## Questo è un esempio di una url esterna al libro.
 
-## Homework section is included
-Questo è un esempo  di una url  esterna al libro.
+-   [Pedani](https://www.pedani.it)
 
-- [Pedani](https://www.pedani.it)
+Questo è un esempio di indice \index{esempio} e verrà inserito solo nel PDF e non sul epub o nell html.
+
+# Altro Capitolo
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dictum ultricies mattis. Mauris pharetra lacinia placerat. Aliquam erat volutpat. Pellentesque magna tortor, cursus id venenatis sed, tincidunt eget turpis. Maecenas egestas pretium molestie. Vestibulum fermentum urna nec lectus dictum, non tempor tellus fringilla. Praesent eleifend cursus arcu. Sed et iaculis neque, quis tristique orci. Aliquam erat volutpat. Nulla dictum justo tortor. Fusce eget ante at ipsum semper dictum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi non risus tincidunt, eleifend nisl at, luctus velit. Nunc imperdiet ex tortor. Sed at maximus dolor, at mollis urna. Integer sapien ligula, lobortis at diam sed, suscipit porta libero.
+
+![una stampa antica di Frascati](images/frascati.jpg "immagine: Mappa di Frascati"){fig-alt="Una mappa di Frascati"}
+
+Phasellus interdum, lorem id efficitur blandit, urna nunc vestibulum arcu, eget euismod nisl nisl nec arcu. Maecenas justo libero, commodo in nibh vel, cursus suscipit urna. Sed imperdiet elit eget ornare accumsan. Pellentesque vitae tristique nibh. Morbi ac tempus est. Nulla facilisi. Nunc sollicitudin sodales vulputate. Etiam volutpat et arcu ac molestie. Suspendisse id mi hendrerit, condimentum justo sed, porta eros. Nulla facilisi.
+
+Fusce hendrerit egestas odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec sed mattis urna. Phasellus tempus blandit ante. Phasellus at magna sit amet tortor venenatis porttitor quis quis turpis. Quisque lobortis massa vitae pulvinar rutrum. Donec id lectus quam. Nam sed semper orci, a euismod ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque convallis urna non enim iaculis sodales. Suspendisse laoreet et dolor eu pretium. Aenean eget lobortis sapien, et dignissim magna. Aenean porta elit a lacinia bibendum. Aenean fermentum massa odio, tempor ultrices velit tempus vel. Integer augue risus, maximus tristique vulputate nec, venenatis eget nulla. Nulla posuere est ante, vel porttitor ante faucibus eu.
+
+Nam ornare mi sed nulla ornare pharetra. Mauris ultricies ut odio a tristique. Nullam suscipit erat eu placerat aliquam. Aliquam nulla quam, consectetur vitae aliquet eget, tincidunt sed orci. In eu vulputate velit. Ut pulvinar hendrerit lectus sed vestibulum. Vivamus id dapibus nisl. Aenean ut nisi pharetra, hendrerit quam non, aliquam risus. Vestibulum auctor, metus eu bibendum consequat, neque massa luctus augue, vel dictum lorem leo nec magna. Phasellus facilisis justo quam, sit amet aliquet ex tincidunt sed. In efficitur sit amet metus sed suscipit. Curabitur condimentum vel arcu eget pellentesque. Nullam est quam, dictum quis ultricies eget, eleifend at diam.
+
+In eget tincidunt nisl. Nulla ornare ut leo nec tempus. Morbi convallis, sem ut ornare pulvinar, justo leo venenatis felis, a vehicula mi lorem a tellus. Nunc vestibulum odio vel dui semper laoreet a elementum massa. Mauris in sem eu tortor euismod elementum. Integer consequat rhoncus enim, et vulputate enim euismod in. Curabitur eu nunc eget eros sodales consequat. Curabitur cursus tortor turpis, ac aliquam dolor hendrerit in. In leo purus, placerat ornare ullamcorper lobortis, rhoncus congue augue. Donec tristique leo eu diam condimentum tempor. Pellentesque sed lorem ac mauris elementum convallis. Suspendisse gravida odio sed ante finibus, sit amet sollicitudin massa tempor. Nunc ac mauris in nisi varius sollicitudin.
+
+![una stampa antica di Frascati](images/frascati.jpg "immagine: Mappa di Frascati"){fig-alt="Una mappa di Frascati"}
+
+## Due colonne
+
+::: columns
+::: {.column width="50%"}
+I would like to have text here
+
+**Sentence becomes longer, it should automatically stay in their column**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dictum ultricies mattis. Mauris pharetra lacinia placerat. Aliquam erat volutpat. Pellentesque magna tortor, cursus id venenatis sed, tincidunt eget turpis. Maecenas egestas pretium molestie. Vestibulum fermentum urna nec lectus dictum, non tempor tellus fringilla. Praesent eleifend cursus arcu. Sed et iaculis neque, quis tristique orci. Aliquam erat volutpat. Nulla dictum justo tortor. Fusce eget ante at ipsum semper dictum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi non risus tincidunt, eleifend nisl at, luctus velit. Nunc imperdiet ex tortor. Sed at maximus dolor, at mollis urna. Integer sapien ligula, lobortis at diam sed, suscipit porta libero.
+
+![una stampa antica di Frascati](images/frascati.jpg "immagine: Mappa di Frascati"){fig-alt="Una mappa di Frascati"}
+
+Nam ornare mi sed nulla ornare pharetra. Mauris ultricies ut odio a tristique. Nullam suscipit erat eu placerat aliquam. Aliquam nulla quam, consectetur vitae aliquet eget, tincidunt sed orci. In eu vulputate velit. Ut pulvinar hendrerit lectus sed vestibulum. Vivamus id dapibus nisl. Aenean ut nisi pharetra, hendrerit quam non, aliquam risus. Vestibulum auctor, metus eu bibendum consequat, neque massa luctus augue, vel dictum lorem leo nec magna. Phasellus facilisis justo quam, sit amet aliquet ex tincidunt sed. In efficitur sit amet metus sed suscipit. Curabitur condimentum vel arcu eget pellentesque. Nullam est quam, dictum quis ultricies eget, eleifend at diam.
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="40%"}
+Fusce hendrerit egestas odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec sed mattis urna. Phasellus tempus blandit ante. Phasellus at magna sit amet tortor venenatis porttitor quis quis turpis. Quisque lobortis massa vitae pulvinar rutrum. Donec id lectus quam. Nam sed semper orci, a euismod ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque convallis urna non enim iaculis sodales. Suspendisse laoreet et dolor eu pretium. Aenean eget lobortis sapien, et dignissim magna. Aenean porta elit a lacinia bibendum. Aenean fermentum massa odio, tempor ultrices velit tempus vel. Integer augue risus, maximus tristique vulputate nec, venenatis eget nulla. Nulla posuere est ante, vel porttitor ante faucibus eu.
+:::
+:::
+
+
+
+
+
+# Guida Markdown
+
+[Guida](https://quarto.org/docs/authoring/markdown-basics.html)
 
 

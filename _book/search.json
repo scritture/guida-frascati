@@ -4,42 +4,77 @@
     "href": "index.html",
     "title": "Guida di Frascati",
     "section": "",
-    "text": "Prefazione\nQuesto è un libro fatto con Quarto .\nPer saperne di più visita https://quarto.org/docs/books.\nQuesto è un esempio di indice e verrà inserito solo nel PDF e non sul epub o nell html."
+    "text": "Prefazione\nQuesto è un libro fatto con Quarto .\nPer saperne di più visita https://quarto.org/docs/books."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Frascati",
+    "section": "",
+    "text": "2 Altro Capitolo\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dictum ultricies mattis. Mauris pharetra lacinia placerat. Aliquam erat volutpat. Pellentesque magna tortor, cursus id venenatis sed, tincidunt eget turpis. Maecenas egestas pretium molestie. Vestibulum fermentum urna nec lectus dictum, non tempor tellus fringilla. Praesent eleifend cursus arcu. Sed et iaculis neque, quis tristique orci. Aliquam erat volutpat. Nulla dictum justo tortor. Fusce eget ante at ipsum semper dictum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi non risus tincidunt, eleifend nisl at, luctus velit. Nunc imperdiet ex tortor. Sed at maximus dolor, at mollis urna. Integer sapien ligula, lobortis at diam sed, suscipit porta libero.\nPhasellus interdum, lorem id efficitur blandit, urna nunc vestibulum arcu, eget euismod nisl nisl nec arcu. Maecenas justo libero, commodo in nibh vel, cursus suscipit urna. Sed imperdiet elit eget ornare accumsan. Pellentesque vitae tristique nibh. Morbi ac tempus est. Nulla facilisi. Nunc sollicitudin sodales vulputate. Etiam volutpat et arcu ac molestie. Suspendisse id mi hendrerit, condimentum justo sed, porta eros. Nulla facilisi.\nFusce hendrerit egestas odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec sed mattis urna. Phasellus tempus blandit ante. Phasellus at magna sit amet tortor venenatis porttitor quis quis turpis. Quisque lobortis massa vitae pulvinar rutrum. Donec id lectus quam. Nam sed semper orci, a euismod ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque convallis urna non enim iaculis sodales. Suspendisse laoreet et dolor eu pretium. Aenean eget lobortis sapien, et dignissim magna. Aenean porta elit a lacinia bibendum. Aenean fermentum massa odio, tempor ultrices velit tempus vel. Integer augue risus, maximus tristique vulputate nec, venenatis eget nulla. Nulla posuere est ante, vel porttitor ante faucibus eu.\nNam ornare mi sed nulla ornare pharetra. Mauris ultricies ut odio a tristique. Nullam suscipit erat eu placerat aliquam. Aliquam nulla quam, consectetur vitae aliquet eget, tincidunt sed orci. In eu vulputate velit. Ut pulvinar hendrerit lectus sed vestibulum. Vivamus id dapibus nisl. Aenean ut nisi pharetra, hendrerit quam non, aliquam risus. Vestibulum auctor, metus eu bibendum consequat, neque massa luctus augue, vel dictum lorem leo nec magna. Phasellus facilisis justo quam, sit amet aliquet ex tincidunt sed. In efficitur sit amet metus sed suscipit. Curabitur condimentum vel arcu eget pellentesque. Nullam est quam, dictum quis ultricies eget, eleifend at diam.\nIn eget tincidunt nisl. Nulla ornare ut leo nec tempus. Morbi convallis, sem ut ornare pulvinar, justo leo venenatis felis, a vehicula mi lorem a tellus. Nunc vestibulum odio vel dui semper laoreet a elementum massa. Mauris in sem eu tortor euismod elementum. Integer consequat rhoncus enim, et vulputate enim euismod in. Curabitur eu nunc eget eros sodales consequat. Curabitur cursus tortor turpis, ac aliquam dolor hendrerit in. In leo purus, placerat ornare ullamcorper lobortis, rhoncus congue augue. Donec tristique leo eu diam condimentum tempor. Pellentesque sed lorem ac mauris elementum convallis. Suspendisse gravida odio sed ante finibus, sit amet sollicitudin massa tempor. Nunc ac mauris in nisi varius sollicitudin.\nGuida"
+  },
+  {
+    "objectID": "intro.html#citazioni",
+    "href": "intro.html#citazioni",
+    "title": "1  Frascati",
+    "section": "1.1 Citazioni",
+    "text": "1.1 Citazioni\nSee Knuth (1984) for additional discussion of literateprogramming.\nMa guarda anche Comandini (2024)"
+  },
+  {
+    "objectID": "intro.html#immagini",
+    "href": "intro.html#immagini",
+    "title": "1  Frascati",
+    "section": "1.2 Immagini",
+    "text": "1.2 Immagini\n\n\n\nuna stampa antica di Frascati"
+  },
+  {
+    "objectID": "intro.html#aggiungere-video",
+    "href": "intro.html#aggiungere-video",
+    "title": "1  Frascati",
+    "section": "1.3 Aggiungere video",
+    "text": "1.3 Aggiungere video\n\n\n\nFigure 1.1: The video “CERN: The Journey of Discovery”\n\n\nIn Figure 1.1…"
   },
   {
     "objectID": "intro.html#math-formula",
     "href": "intro.html#math-formula",
-    "title": "1  Introduzione",
-    "section": "1.1 Math Formula",
-    "text": "1.1 Math Formula\nEquation 1.1 shows a divider.\n\\[\\frac{1}{2} \\tag{1.1}\\]"
+    "title": "1  Frascati",
+    "section": "1.4 Math Formula",
+    "text": "1.4 Math Formula\nEquation 1.1 shows a divider.\n\\[\\frac{1}{2} \\tag{1.1}\\]"
   },
   {
     "objectID": "intro.html#table",
     "href": "intro.html#table",
-    "title": "1  Introduzione",
-    "section": "1.2 Table",
-    "text": "1.2 Table\nThe following is Table 1.1. The label name shoud start with tbl-\n\n\nTable 1.1: An example table\n\n\n1\n2\n\n\n\n\n2\n3"
+    "title": "1  Frascati",
+    "section": "1.5 Table",
+    "text": "1.5 Table\nThe following is Table 1.1. The label name shoud start with tbl-\n\n\nTable 1.1: An example table\n\n\n1\n2\n3\n\n\n\n\n2\n3\nTesto di prova\n\n\n1\n3\nalbicocche"
   },
   {
-    "objectID": "intro.html#homework-section-is-included",
-    "href": "intro.html#homework-section-is-included",
-    "title": "1  Introduzione",
-    "section": "1.3 Homework section is included",
-    "text": "1.3 Homework section is included\nQuesto è un esempo di una url esterna al libro.\n\nPedani\n\n\n\n\n\nComandini, Claudio. 2024. “Scritti Frascatani.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "objectID": "intro.html#questo-è-un-esempio-di-una-url-esterna-al-libro.",
+    "href": "intro.html#questo-è-un-esempio-di-una-url-esterna-al-libro.",
+    "title": "1  Frascati",
+    "section": "1.6 Questo è un esempio di una url esterna al libro.",
+    "text": "1.6 Questo è un esempio di una url esterna al libro.\n\nPedani\n\nQuesto è un esempio di indice e verrà inserito solo nel PDF e non sul epub o nell html."
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Sommario",
-    "section": "",
-    "text": "In summary, this book has no content whatsoever."
+    "objectID": "intro.html#due-colonne",
+    "href": "intro.html#due-colonne",
+    "title": "1  Frascati",
+    "section": "2.1 Due colonne",
+    "text": "2.1 Due colonne\n\n\nI would like to have text here\nSentence becomes longer, it should automatically stay in their column\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dictum ultricies mattis. Mauris pharetra lacinia placerat. Aliquam erat volutpat. Pellentesque magna tortor, cursus id venenatis sed, tincidunt eget turpis. Maecenas egestas pretium molestie. Vestibulum fermentum urna nec lectus dictum, non tempor tellus fringilla. Praesent eleifend cursus arcu. Sed et iaculis neque, quis tristique orci. Aliquam erat volutpat. Nulla dictum justo tortor. Fusce eget ante at ipsum semper dictum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi non risus tincidunt, eleifend nisl at, luctus velit. Nunc imperdiet ex tortor. Sed at maximus dolor, at mollis urna. Integer sapien ligula, lobortis at diam sed, suscipit porta libero.\n\n\n\nuna stampa antica di Frascati\n\n\nNam ornare mi sed nulla ornare pharetra. Mauris ultricies ut odio a tristique. Nullam suscipit erat eu placerat aliquam. Aliquam nulla quam, consectetur vitae aliquet eget, tincidunt sed orci. In eu vulputate velit. Ut pulvinar hendrerit lectus sed vestibulum. Vivamus id dapibus nisl. Aenean ut nisi pharetra, hendrerit quam non, aliquam risus. Vestibulum auctor, metus eu bibendum consequat, neque massa luctus augue, vel dictum lorem leo nec magna. Phasellus facilisis justo quam, sit amet aliquet ex tincidunt sed. In efficitur sit amet metus sed suscipit. Curabitur condimentum vel arcu eget pellentesque. Nullam est quam, dictum quis ultricies eget, eleifend at diam.\n\n\n\nFusce hendrerit egestas odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec sed mattis urna. Phasellus tempus blandit ante. Phasellus at magna sit amet tortor venenatis porttitor quis quis turpis. Quisque lobortis massa vitae pulvinar rutrum. Donec id lectus quam. Nam sed semper orci, a euismod ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque convallis urna non enim iaculis sodales. Suspendisse laoreet et dolor eu pretium. Aenean eget lobortis sapien, et dignissim magna. Aenean porta elit a lacinia bibendum. Aenean fermentum massa odio, tempor ultrices velit tempus vel. Integer augue risus, maximus tristique vulputate nec, venenatis eget nulla. Nulla posuere est ante, vel porttitor ante faucibus eu."
   },
   {
     "objectID": "capitolo.html",
     "href": "capitolo.html",
-    "title": "3  le bellezze di Frascati",
+    "title": "2  le bellezze di Frascati",
     "section": "",
     "text": "Per aggiungere un capitolo creare un file come questo e poi aggiungere il nome del file dentro il file _quarto.yml"
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "3  Sommario",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever."
   },
   {
     "objectID": "references.html",
